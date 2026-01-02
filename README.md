@@ -57,14 +57,8 @@ The model is trained offline and served through a Flask API for real-time predic
 
 ## 🌐 Live Demo
 
-* **Frontend:** *(Vercel deployment link)*
-* **Backend API:** *(Render deployment link)*
-
-Example API usage:
-
-```
-/predict?store=1&promo=0&holiday=0&day=15&month=7&dow=1
-```
+* **Frontend:** [*Retail prediction website*](https://retail-prediction-frontend.vercel.app/)
+* **Backend API:** [*(Render deployment link)*](https://retail-prediction-ml-and-frontend-website.onrender.com)
 
 ---
 
@@ -106,17 +100,6 @@ index.html
 
 ---
 
-## 📄 Resume Description
-
-**Retail Sales Prediction Web Application**
-
-* Built a full-stack machine learning web application to forecast retail sales
-* Developed a Flask REST API to serve ML predictions
-* Designed a responsive frontend with interactive data visualization
-* Deployed backend on Render and frontend on Vercel
-
----
-
 ## ✨ Future Improvements
 
 * Support for multiple stores and longer forecasting horizons
@@ -129,3 +112,6 @@ index.html
 ## 🙌 Acknowledgements
 
 This project was built as a hands-on learning experience to understand real-world ML deployment and full-stack integration.
+
+---
+-Krishita Myneni
