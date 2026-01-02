@@ -58,7 +58,7 @@ The model is trained offline and served through a Flask API for real-time predic
 ## 🌐 Live Demo
 
 * **Frontend:** [*Retail prediction website*](https://retail-prediction-frontend.vercel.app/)
-* **Backend API:** [*(Render deployment link)*](https://retail-prediction-ml-and-frontend-website.onrender.com)
+* **Backend API:** [*Render deployment link*](https://retail-prediction-ml-and-frontend-website.onrender.com)
 
 ---
 
